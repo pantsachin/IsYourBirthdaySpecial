@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap");
+
+html {
+  overflow-x: hidden;
+  height: 100%;
+}
+
+.App {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+.birthday {
+  margin: 1rem;
+}
+
+.footer {
+  background-color: #f9a8d4;
+  padding: 1rem;
+  position: absolute;
+  margin: 0;
+  display: block;
+  bottom: 0;
+  width: 100%;
+}
+
+.navigation {
+  background-color: #f9a8d4;
+  padding: 0.3rem;
+  margin: 0px;
+  position: relative;
+}
+
+header {
+  margin: 2rem;
+}
